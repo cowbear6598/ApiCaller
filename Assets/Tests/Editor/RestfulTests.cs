@@ -44,6 +44,7 @@ namespace Tests.Editor
 			Assert.AreEqual("https://example.com/api/test", request.url);
 			Assert.AreEqual(60, request.timeout);
 			Assert.AreEqual("POST", request.method);
+
 			Assert.AreEqual("application/json", request.GetRequestHeader("Content-Type"));
 			Assert.AreEqual("123456", request.GetRequestHeader("Authorization"));
 		}
