@@ -15,7 +15,8 @@ jobs:
       matrix:
         projectPath:
           - ApiCaller
-        unityVersion: '2022.3.45f1'
+        unityVersion: 
+          - 2022.3.45f1
         testMode:
           - playmode
           - editmode

@@ -9,7 +9,8 @@
 /[Bb]uilds/
 /Assets/AssetStoreTools*
 /ServerData/
-/CodeCoverage
+/[Aa]rtifacts/
+/[Cc]odeCoverage/
 /vHierarchy
 /vInspector
 
