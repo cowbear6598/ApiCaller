@@ -1,0 +1,17 @@
+{
+  "name": "com.soap.api-caller",
+  "version": "0.0.1",
+  "description": "call api easily",
+  "displayName": "ApiCaller",
+  "unity": "2022.3",
+  "unityRelease": "50f1",
+  "dependencies": {},
+  "author": {
+    "name": "Soap",
+    "email": "cowbear6598@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cowbear6598/ApiCaller.git"
+  }
+}
