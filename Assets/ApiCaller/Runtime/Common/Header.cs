@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ApiCaller.Domain
+namespace ApiCaller.Common
 {
 	public enum Header
 	{

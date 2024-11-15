@@ -1,4 +1,4 @@
-﻿namespace ApiCaller.Domain
+﻿namespace ApiCaller.Common
 {
 	public enum Method
 	{

@@ -1,11 +1,13 @@
 {
   "name": "com.soap.api-caller",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "call api easily",
   "displayName": "ApiCaller",
   "unity": "2022.3",
   "unityRelease": "50f1",
-  "dependencies": {},
+  "dependencies": {
+    "com.cysharp.unitask": "2.5.10"
+  },
   "author": {
     "name": "Soap",
     "email": "cowbear6598@gmail.com"
